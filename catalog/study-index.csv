@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+cop01,Glass Blades,pack-local equal-tempered pitch collection,D,100,4/4,480,32,61440,midi/cop01-glass-blades/cop01-glass-blades-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cop02,Stone Refrain,pack-local equal-tempered pitch collection,F,100,4/4,480,32,61440,midi/cop02-stone-refrain/cop02-stone-refrain-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cop03,Narrow Beam,pack-local equal-tempered pitch collection,G#,100,4/4,480,32,61440,midi/cop03-narrow-beam/cop03-narrow-beam-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cop04,Long Shadow,pack-local equal-tempered pitch collection,D#,100,4/4,480,32,61440,midi/cop04-long-shadow/cop04-long-shadow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

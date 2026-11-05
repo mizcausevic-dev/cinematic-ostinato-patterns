@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/cinematic-ostinato-patterns-simple-synth-preview.mp3",
+  "preview_sha256": "9412a82c7ebe148f6113ad218a3b94015bfef0494c6a810218ea81841a3c4552",
+  "source_midi_path": "midi/cop01-glass-blades/cop01-glass-blades-combined.mid",
+  "source_midi_sha256": "a5af0d68208449db469dbc044d5b380f1dae58e344f9f28ba4ebeb6506ff53e4",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "cop01",
+    "start_seconds": 0,
+    "end_seconds": 76.8
+  },
+  "measurement": {
+    "sample_peak": 0.148655,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

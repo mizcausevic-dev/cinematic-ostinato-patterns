@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic Ostinato Patterns",
+  "study": "cop01",
+  "bpm": 100,
+  "source_audio": "preview/cinematic-ostinato-patterns-simple-synth-preview.mp3",
+  "source_audio_sha256": "9412a82c7ebe148f6113ad218a3b94015bfef0494c6a810218ea81841a3c4552",
+  "source_midi": "midi/cop01-glass-blades/cop01-glass-blades-combined.mid",
+  "source_midi_sha256": "a5af0d68208449db469dbc044d5b380f1dae58e344f9f28ba4ebeb6506ff53e4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "2cc4beebd8955f9ea410a6063df5f35514b7eeca197fa0724ee7cd2f1961d8e8",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "9f72dd7a42092fa1ceb98529e0a7597eec356f034b6820663e608eb798a82f4e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "8ad521c9abfdec44fede1abdbf45c824722f125c1983db4352649c8c421baa8c",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
